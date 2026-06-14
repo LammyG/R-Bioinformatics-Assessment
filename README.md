@@ -10,11 +10,20 @@ The project demonstrates core competencies in programming, statistical computing
 ---
 https://github.com/LammyG/R-Bioinformatics-Assessment/blob/main/R_report_OlamideOkunola_S3559438.html
 ## 📊 How to View the Interactive Report
+
+### 🌎 Option 1: Live Interactive Web Report (Recommended)
 Because GitHub does not natively render `.html` files (it displays them as raw code text), you can view the fully formatted report—complete with publication-grade charts, clean tables, and code formatting—by using the live preview link below:
 
 👉 **[CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT](https://htmlpreview.github.io/?https://github.com/LammyG/R-Bioinformatics-Assessment/blob/main/R_report_OlamideOkunola_S3559438.html)**
 
 *(Alternatively, you can download the `R_report_OlamideOkunola_S3559438.html` file from this repository and open it locally in any web browser like Chrome, Safari, or Edge.)*
+
+### 📄 Option 2: Static PDF Document
+If you prefer a standard document layout, the complete compiled report is also available as a publication-ready PDF file in this repository:
+
+👉 **[View or Download the PDF Report Here](R_report_OlamideOkunola_S3559438.pdf)**
+
+*(GitHub natively displays PDF files, so clicking the link above will open the document directly in your browser window).*
 
 ---
 
