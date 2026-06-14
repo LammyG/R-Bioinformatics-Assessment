@@ -8,11 +8,11 @@ This repository contains the final data analysis report for the **R for Bioinfor
 The project demonstrates core competencies in programming, statistical computing, object-oriented design, and advanced high-throughput biological data workflows using microarray datasets.
 
 ---
-
+https://github.com/LammyG/R-Bioinformatics-Assessment/blob/main/R_report_OlamideOkunola_S3559438.html
 ## 📊 How to View the Interactive Report
 Because GitHub does not natively render `.html` files (it displays them as raw code text), you can view the fully formatted report—complete with publication-grade charts, clean tables, and code formatting—by using the live preview link below:
 
-👉 **[CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT](https://htmlpreview.github.io/?https://github.com/LammyG/R-Bioinformatics-Assessment)**
+👉 **[CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT](https://htmlpreview.github.io/?https://github.com/LammyG/R-Bioinformatics-Assessment/blob/main/R_report_OlamideOkunola_S3559438.html)**
 
 *(Alternatively, you can download the `R_report_OlamideOkunola_S3559438.html` file from this repository and open it locally in any web browser like Chrome, Safari, or Edge.)*
 
